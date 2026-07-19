@@ -1,8 +1,12 @@
 <div align="center">
 
-# ☁️ AWS Cloud Security Compliance Scanner
+<<img src="banner/banner.png" alt="RayquaSec - AWS Cloud Security & Compliance Scanner" width="100%">
 
-### *Automated Cloud Security Auditing, Built with Python & AWS*
+<br>
+
+# ☁️ RayquaSec
+
+### AWS Cloud Security & Compliance Scanner
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -11,6 +15,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </div>
+
+---
 
 ---
 
