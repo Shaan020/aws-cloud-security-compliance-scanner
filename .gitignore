@@ -1,0 +1,5 @@
+.venv/
+.venv-1/
+scan_results.json
+__pycache__/
+*.pyc
