@@ -4,7 +4,7 @@
 
 <br>
 
-# ☁️ RayquaSec
+# ☁️ RayquaZure
 
 ### AWS Cloud Security & Compliance Scanner
 
